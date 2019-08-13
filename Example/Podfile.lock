@@ -1,0 +1,16 @@
+PODS:
+  - DXPods (0.1.0)
+
+DEPENDENCIES:
+  - DXPods (from `../`)
+
+EXTERNAL SOURCES:
+  DXPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DXPods: 24ce1387e35f903a50d5c54043032dc1c4184b52
+
+PODFILE CHECKSUM: 7cbe31da25ec17530bca635b9da63be1f9eb05dc
+
+COCOAPODS: 1.7.1

@@ -1,0 +1,6 @@
+framework module DXPods {
+  umbrella header "DXPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
